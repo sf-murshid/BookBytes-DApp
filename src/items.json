@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Designing Data-Intensive Applications",
+      "category": "Computers",
+      "image": "https://image.ebooks.com/cover/95729334.jpg?width=180&height=250&quality=85",
+      "price": "0.21",
+      "rating": 4,
+      "stock": 10
+    },
+    {
+      "id": 2,
+      "name": "Learning Go (2nd ed.)",
+      "category": "Computers",
+      "image": "https://image.ebooks.com/cover/211190367.jpg?width=180&height=250&quality=85",
+      "price": "0.32",
+      "rating": 5,
+      "stock": 6
+    },
+    {
+      "id": 3,
+      "name": "Fundamentals of Data Engineering",
+      "category": "Computers",
+      "image": "https://image.ebooks.com/cover/210595152.jpg?width=180&height=250&quality=85",
+      "price": "0.25",
+      "rating": 2,
+      "stock": 24
+    },
+    {
+      "id": 4,
+      "name": "Coming of Age in the Milky Way",
+      "category": "Science",
+      "image": "https://image.ebooks.com/cover/211264404.jpg?width=180&height=250&quality=85",
+      "price": "0.59",
+      "rating": 5,
+      "stock": 3
+    },
+    {
+      "id": 5,
+      "name": "Extra Life",
+      "category": "Science",
+      "image": "https://image.ebooks.com/cover/210109666.jpg?width=180&height=250&quality=85",
+      "price": "0.10",
+      "rating": 4,
+      "stock": 12
+    },
+    {
+      "id": 6,
+      "name": "Understanding Our Universe (4th ed.)",
+      "category": "Science",
+      "image": "https://image.ebooks.com/cover/210188521.jpg?width=180&height=250&quality=85",
+      "price": "0.45",
+      "rating": 4,
+      "stock": 5
+    },
+    {
+      "id": 7,
+      "name": "Macroeconomics (6th ed.)",
+      "category": "Business",
+      "image": "https://image.ebooks.com/cover/211381024.jpg?width=180&height=250&quality=85",
+      "price": "0.85",
+      "rating": 5,
+      "stock": 15
+    },
+    {
+      "id": 8,
+      "name": "The New Marketing",
+      "category": "Business",
+      "image": "https://image.ebooks.com/cover/209971975.jpg?width=180&height=250&quality=85",
+      "price": "0.20",
+      "rating": 4,
+      "stock": 5
+    },
+    {
+      "id": 9,
+      "name": "International Entrepreneurship (2nd ed.)",
+      "category": "Business",
+      "image": "https://image.ebooks.com/cover/211031700.jpg?width=180&height=250&quality=85",
+      "price": "0.55",
+      "rating": 3,
+      "stock": 12
+    }
+  ]
+}
